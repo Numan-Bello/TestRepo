@@ -3,3 +3,5 @@ This is a file we created on GitBash.
 I added another line.
 
 Adding yet another line.
+
+I just made some more changes. This is after we have set up the connection  of local and remote repositories.
